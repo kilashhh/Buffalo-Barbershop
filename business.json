@@ -1,0 +1,67 @@
+{
+  "slug": "buffalo-barbershop",
+  "theme": "buffalo",
+  "name": "Buffalo Barbershop",
+  "tagline": "The Villages · Florida",
+  "currency": "USD",
+  "timezone": "America/New_York",
+  "port": 8772,
+  "address": "11962 CR-101, Suite 203, The Villages, FL 32162, United States",
+  "phone": "+13526337453",
+  "phoneDisplay": "+1 (352) 633-7453",
+  "phoneNote": "Additional contact number published by the business on Booksy.",
+  "booksy": "https://booksy.com/en-us/1558787_buffalo-barbershop_barber-shop_16083_the-villages",
+  "headline": "Good cuts.<br>Good company.<br><em>Your kind of place.</em>",
+  "intro": "Haircuts, beard trims and hot towel shaves. Find your next appointment at Buffalo Barbershop in The Villages.",
+  "image": "interior.jpg",
+  "imageCredit": "Barney Goodman / Unsplash",
+  "imageSource": "https://unsplash.com/photos/AXurvQTtO3Y",
+  "services": [
+    {
+      "name": "Haircut",
+      "description": "Your everyday cut, refreshed.",
+      "price": 1900,
+      "duration": 20
+    },
+    {
+      "name": "Haircut & beard",
+      "description": "A complete hair and beard appointment.",
+      "price": 2500,
+      "duration": 45
+    },
+    {
+      "name": "Kid’s haircut",
+      "description": "A haircut for the younger crowd.",
+      "price": 1900,
+      "duration": 20
+    },
+    {
+      "name": "Beard trim",
+      "description": "Keep your beard in shape.",
+      "price": 600,
+      "duration": 15
+    },
+    {
+      "name": "Skin fade",
+      "description": "Choose your next fade.",
+      "price": 1900,
+      "duration": 20
+    },
+    {
+      "name": "Hot towel shave",
+      "description": "Take time for a traditional shave.",
+      "price": 2500,
+      "duration": 45
+    }
+  ],
+  "barbers": [
+    {
+      "name": "Cory Berkhousen",
+      "bio": "Listed barber at Buffalo Barbershop. Choose Cory for your next appointment."
+    },
+    {
+      "name": "New York Dave",
+      "bio": "Listed master barber. His public profile includes haircuts, beard trims and hot towel shaves."
+    }
+  ]
+}
